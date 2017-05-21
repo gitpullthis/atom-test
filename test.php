@@ -1,8 +1,5 @@
 <?php
 
-
+print "including text.php";
 
  ?>
-<div class="">
-
-</div>
