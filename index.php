@@ -7,3 +7,5 @@ echo("this is text");
     Testing another one
 </div>
 What are you talking abooot
+
+<script src="js/app.js"></script>
